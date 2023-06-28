@@ -1,0 +1,1 @@
+kafka-server-start $KAFKA_FILE/server1.properties
